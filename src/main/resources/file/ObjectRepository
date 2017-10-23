@@ -1,0 +1,19 @@
+# Home Page Objects
+Userbar_login=html/body/header/div/div[2]/div/a[1]
+Userbar_logout=html/body/header/div/div[2]/div/a[3]
+
+#Login Page Objects
+Input_name=//*[@id='userMail']
+Input_password=//*[@id='userPassword']
+Login_button=//*[@id='account_login']/form/div/div[5]/button
+
+
+
+
+#baidu Page Objects
+Input=//*[@id='kw']
+Button=//*[@id='su']
+
+
+
+
