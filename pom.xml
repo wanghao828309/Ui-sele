@@ -79,10 +79,6 @@
 							<name>usedefaultlisteners</name>
 							<value>true</value>
 						</property>
-						<!-- <property> <name>listener</name> <value>com.listens.TestNGListener,org.uncommons.reportng.HTMLReporter,org.uncommons.reportng.JUnitXMLReporter</value> 
-							</property> -->
-						<!-- <property> <name>reporter</name> <value>listenReport.Reporter</value> 
-							</property> -->
 					</properties>
 					<!-- <workingDirectory>target/${maven.build.timestamp}</workingDirectory> -->
 					<!-- project.build.directory表示maven的属性，这里指的是构建的目录下面test-reports，project.build.directory就是pom标签的值 -->

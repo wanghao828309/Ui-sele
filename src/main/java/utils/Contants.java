@@ -6,7 +6,7 @@ public class Contants {
 	//public static  String url="http://www.oschina.net/";
 	public static  String url="https://www.baidu.com/";
 //	定义基本路径
-	public static String baseUrl="C:/Users/Dike/git/Test/wang-Selenium-Test";
+	public static String baseUrl="D:/download/work/wang-Selenium-Test";
 //	定义驱动路径
 	public static String driverUrl="C:/Program Files (x86)/Mozilla Firefox/geckodriver.exe";
 //	Excel的路径和名称
