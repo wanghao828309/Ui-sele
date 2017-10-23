@@ -10,11 +10,10 @@ import org.dom4j.DocumentException;
 import org.dom4j.DocumentHelper;
 import org.dom4j.Element;
 
-import listens.TestNGListener;
 
 public class Dom4jUtils {
 	
-	private static Logger logger = LogManager.getLogger(TestNGListener.class.getName());
+//	private static Logger logger = LogManager.getLogger(TestNGListener.class.getName());
 	
 	
 	/* 指定子节点的名字，获取其文本,如该节点不存在，返回空字符串，非null */
@@ -142,7 +141,7 @@ public class Dom4jUtils {
 	        Attribute attribute = element.attribute(attrName);
 	        value = attribute.getText();
 		} catch (DocumentException e) {
-			logger.error("Dom4jUtils.getValueByTagAndAttrName()==>error,", e);
+//			logger.error("Dom4jUtils.getValueByTagAndAttrName()==>error,", e);
 		}
     	return value;
     }

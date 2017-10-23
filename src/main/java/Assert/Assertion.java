@@ -1,12 +1,14 @@
 package Assert;
 
-import org.testng.Assert;
 
-import login.testCase.StartEngine_LoginCase;
+
 import utils.StartEngine_Excel;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import org.testng.Assert;
+
 
 /**
  * Created by LITP on 2016/9/21.
@@ -26,7 +28,7 @@ public class Assertion {
         }catch(Error e){
             errors.add(e);
 //            StartEngine_Excel.setbResult(false);
-            StartEngine_LoginCase.setbResult(false);
+            StartEngine_Excel.setbResult(false);
         }
     }
 
