@@ -1,3 +1,2 @@
-17:23:29.379 INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
-17:23:43.712 INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
-17:23:53.672 INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+14:48:58.509 INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+14:49:12.460 INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 

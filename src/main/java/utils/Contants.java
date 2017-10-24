@@ -28,6 +28,7 @@ public class Contants {
 	public static int suitTestSuiteId=0;
 	public static int suitRunmode=2;
 	public static int suitResult=3;
+	public static int suitAction=4;
 //	用例步骤页的设置
 	public static int stepTestSuiteId=0;
 	public static int excelPOCloNum=4;

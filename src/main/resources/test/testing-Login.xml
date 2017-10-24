@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="false" thread-count="1">
     <test name="Login">
         <classes>
-            <class name="login.testCase.LoginTest"  />
+            <class name="loginModule.testCase.LoginModuleTest"  />
         </classes>
     </test>
 </suite>

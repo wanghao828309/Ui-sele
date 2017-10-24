@@ -1,4 +1,4 @@
-package login.testCase;
+package loginModule.testCase;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -56,6 +56,24 @@ public class loginDataProvider {
 
 	}
 	
+	@DataProvider
+	public static Object[][] data02Provider() {
+		ExcelUtils.setExcelFile(Contants.excelFile + Contants.excelName);
+		int rowSize=ExcelUtils.getLastRowNums(Contants.dataSheet02);
+		int colSize=ExcelUtils.getLastCloNums(1, Contants.dataSheet02);
+//		System.out.println(rowSize+"  "+colSize);
+		Object[][] returnArray = new Object[rowSize][colSize];
+		
+		for (int i = 1; i<=rowSize; i++) {
+			List<String> rowNum = ExcelUtils.getRowNum(i, Contants.dataSheet02);
+			Object[] obj = rowNum.toArray();
+//			System.out.println(Arrays.toString(obj));
+		    returnArray[i-1]=obj;
+		}
+		return returnArray;
+
+	}
+	
 
 
 	public static void main(String[] args) {
@@ -67,7 +85,7 @@ public class loginDataProvider {
 	@Test(dataProvider="excelProvider")
 	public void test(String sRowNum,String s1,String s2,String s3,String s4){
 //		System.out.println(s1);
-		StartEngine_LoginCase.StartEngine(sRowNum,s1, s2, s3, s4);
+		StartEngine_loginModule.StartEngine(sRowNum,s1, s2, s3, s4);
 
 		
 		

@@ -2,7 +2,7 @@ package selenium_test01;
 
 import org.testng.annotations.Test;
 
-import login.testCase.loginDataProvider;
+import loginModule.testCase.loginDataProvider;
 
 public class TestDataProvider02{
 
