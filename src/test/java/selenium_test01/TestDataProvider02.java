@@ -9,7 +9,7 @@ public class TestDataProvider02{
     @Test(dataProvider="loginProvider",dataProviderClass=loginDataProvider.class)
     public  void loginRight(String s1){
     	
-    	System.out.println(s1);
+    	System.out.println(s1+"");
     	
 
     }
