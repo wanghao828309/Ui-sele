@@ -1,13 +1,12 @@
 package Assert;
 
 
-
-import utils.StartEngine_Excel;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import org.testng.Assert;
+
+import utils.TakeScreenShot;
+
 
 
 /**
@@ -17,9 +16,11 @@ import org.testng.Assert;
 public class Assertion {
 
 
-    public static boolean flag = true;                     
+    public static boolean flag = true;  
+    public static boolean results = true; 
 
-    public static List<Error> errors = new ArrayList<Error>();    
+
+	public static List<Error> errors = new ArrayList<Error>();    
 
 
     public static void verifyEquals(Object actual, Object expected){
@@ -27,8 +28,11 @@ public class Assertion {
             Assert.assertEquals(actual, expected);
         }catch(Error e){
             errors.add(e);
+            flag = false;
+            setResults(false);
+            TakeScreenShot.takeScreenShot();
 //            StartEngine_Excel.setbResult(false);
-            StartEngine_Excel.setbResult(false);
+//            StartEngine_loginModule.setbResult(false);
         }
     }
 
@@ -39,7 +43,21 @@ public class Assertion {
             Assert.assertEquals(actual, expected, message);
         }catch(Error e){
             errors.add(e);
-            StartEngine_Excel.setbResult(false);
+            flag = false;
+//            StartEngine_loginModule.setbResult(false);
         }
     }
+    
+    public static boolean isResults() {
+		return results;
+	}
+
+
+
+	public static void setResults(boolean results) {
+		Assertion.results = results;
+	}
+
+
+
 }

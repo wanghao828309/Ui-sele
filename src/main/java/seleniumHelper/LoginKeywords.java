@@ -1,5 +1,7 @@
 package seleniumHelper;
 
+
+
 import static org.testng.Assert.assertEquals;
 
 import java.util.concurrent.TimeUnit;
@@ -32,7 +34,8 @@ public class LoginKeywords{
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		String text = driver.findElement(By.xpath(OrpUtil.readValue("Button"))).getAttribute("value");
 		System.out.println(text);
-		Assertion.verifyEquals(text, "百度一下");
+		Assertion.verifyEquals(text, "百度一下2");
+//		StartEngine_loginModule.setbResult(false);
 //		assertEquals(text, "百度一下1");
 	}
 

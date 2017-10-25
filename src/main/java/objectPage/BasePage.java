@@ -14,7 +14,7 @@ public class BasePage {
         this.driver = driver;
         this.driverWait = new WebDriverWait(this.driver, TIMEOUT);
         this.driverLongWait = new WebDriverWait(this.driver, TIMEOUT_LONG);
-        PageFactory.initElements(this.driver, this);  // ���ǳ���Ҫ�������д�Ļ����ܱ��벻�ᱨ�����Ǻ���Ҫ˵��ҳ��Ԫ��������ʱһ�����Ҳ���
+        PageFactory.initElements(this.driver, this);  
     }
 
 }

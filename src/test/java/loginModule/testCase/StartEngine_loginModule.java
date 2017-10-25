@@ -1,5 +1,6 @@
 package loginModule.testCase;
 
+import Assert.Assertion;
 import loginModule.testCase.login.LoginCase;
 import loginModule.testCase.register.RegCase;
 import utils.*;
@@ -9,7 +10,7 @@ public class StartEngine_loginModule {
 
 	public static String Keywords = null;
 	public static String r;
-	public static boolean sResult = true;
+	public boolean sResult = true;
 
 	public static void StartEngine(String sRowNum, String s1, String s2, String s3, String s4) {
 		ExcelUtils.setExcelFile(Contants.excelFile + Contants.excelName);
@@ -26,21 +27,21 @@ public class StartEngine_loginModule {
 				if (sRowNum.trim().equals(suitTestSuiteId)) {
 					if (Action.equals("login")) {
 						LoginCase.login(s1, s2, s3, s4);
-						
-					} else{
+
+					} else {
 						RegCase.register(s1, s2, s3);
 
 					}
-					
-					if (sResult == false) {
+
+					if (Assertion.results == false) {
 						ExcelUtils.setCellData(Contants.fail, j, Contants.suitResult,
 								Contants.excelFile + Contants.excelName, Contants.suitSheet);
-						 break;
+						break;
 
 					} else {
 						ExcelUtils.setCellData(Contants.pass, j, Contants.suitResult,
 								Contants.excelFile + Contants.excelName, Contants.suitSheet);
-						 break;
+						break;
 					}
 				}
 				// if (sResult == true) {
@@ -51,12 +52,12 @@ public class StartEngine_loginModule {
 		}
 	}
 
-	public static boolean getbResult() {
+	public boolean issResult() {
 		return sResult;
 	}
 
-	public static void setbResult(boolean bResult) {
-		StartEngine_loginModule.sResult = bResult;
+	public void setsResult(boolean sResult) {
+		this.sResult = sResult;
 	}
 
 }

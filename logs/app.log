@@ -112,3 +112,499 @@
 2017-10-24 at 14:38:27 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
 2017-10-24 at 14:48:58 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
 2017-10-24 at 14:49:12 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 15:05:34 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 15:05:48 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 16:11:21 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 16:11:35 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 16:29:05 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 16:29:05 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 16:29:05 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 16-29-05-------------
+2017-10-24 at 16:29:05 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 16:29:05 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:29:09 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 16:29:13 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:29:16 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:29:16 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:29:19 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:29:19 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:29:23 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:29:23 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 16:29:29 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test02
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 16-29-05-------------
+2017-10-24 at 16:29:32 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 16:31:56 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 16:31:56 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 16:31:56 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 16-31-56-------------
+2017-10-24 at 16:31:56 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 16:31:57 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:32:00 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 16:32:04 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:32:07 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:32:08 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:32:11 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:32:11 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:32:14 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:32:14 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 16:32:21 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test02
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 16-31-56-------------
+2017-10-24 at 16:32:24 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 16:35:20 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 16:35:20 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 16:35:20 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 16-35-20-------------
+2017-10-24 at 16:35:20 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 16:35:20 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:35:23 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 16:35:28 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:35:31 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:35:31 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:35:34 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:35:34 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:35:37 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:35:37 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 16:35:44 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test02
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 16-35-20-------------
+2017-10-24 at 16:35:47 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 16:38:29 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 16:38:29 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 16:38:29 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 16-38-29-------------
+2017-10-24 at 16:38:29 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 16:38:30 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:38:33 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 16:38:34 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 16:38:34 CST ERROR listen.TestNGListener 56 onTestFailure - expected [百度一下1] but found [百度一下]
+2017-10-24 at 16:38:34 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 16:38:34 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 16:38:34 CST INFO  listen.TestNGListener 200 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-TestTestNGListener_2017-10-24 16-38-34.jpg
+2017-10-24 at 16:38:34 CST INFO  listen.TestNGListener 206 takeScreenShot - screen shot finished
+2017-10-24 at 16:38:38 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:38:38 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:38:41 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:38:41 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:38:44 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:38:44 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 16:38:47 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 16:38:47 CST ERROR listen.TestNGListener 56 onTestFailure - expected [百度一下1] but found [百度一下]
+2017-10-24 at 16:38:47 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 16:38:47 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 16:38:47 CST INFO  listen.TestNGListener 200 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-TestTestNGListener_2017-10-24 16-38-47.jpg
+2017-10-24 at 16:38:47 CST INFO  listen.TestNGListener 206 takeScreenShot - screen shot finished
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 16-38-29-------------
+2017-10-24 at 16:38:51 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 16:50:38 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 16:50:38 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 16:50:38 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 16-50-38-------------
+2017-10-24 at 16:50:38 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 16:50:38 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:50:41 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 16:50:42 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 16:50:42 CST ERROR listen.TestNGListener 56 onTestFailure - expected [百度一下1] but found [百度一下]
+2017-10-24 at 16:50:42 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 16:50:42 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 16:50:42 CST INFO  listen.TestNGListener 200 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-TestTestNGListener_2017-10-24 16-50-42.jpg
+2017-10-24 at 16:50:42 CST INFO  listen.TestNGListener 206 takeScreenShot - screen shot finished
+2017-10-24 at 16:50:46 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:50:46 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:50:49 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:50:49 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:50:52 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:50:52 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 16:50:55 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 16:50:55 CST ERROR listen.TestNGListener 56 onTestFailure - expected [百度一下1] but found [百度一下]
+2017-10-24 at 16:50:55 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 16:50:55 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 16:50:55 CST INFO  listen.TestNGListener 200 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-TestTestNGListener_2017-10-24 16-50-55.jpg
+2017-10-24 at 16:50:55 CST INFO  listen.TestNGListener 206 takeScreenShot - screen shot finished
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 16-50-38-------------
+2017-10-24 at 16:50:59 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 16:54:10 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 16:54:10 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 16:54:10 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 16-54-10-------------
+2017-10-24 at 16:54:10 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 16:54:11 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:54:14 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 16:54:18 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:54:21 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:54:22 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:54:25 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:54:25 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:54:28 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 16:54:28 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 16:54:34 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 16-54-10-------------
+2017-10-24 at 16:54:38 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 17:01:25 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 17:01:25 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 17:01:25 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 17-01-25-------------
+2017-10-24 at 17:01:25 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 17:01:25 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:01:28 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 17:01:29 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 17:01:29 CST ERROR listen.TestNGListener 56 onTestFailure - expected [百度一下1] but found [百度一下]
+2017-10-24 at 17:01:29 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 17:01:29 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 17:01:29 CST INFO  listen.TestNGListener 200 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-TestTestNGListener_2017-10-24 17-01-29.jpg
+2017-10-24 at 17:01:29 CST INFO  listen.TestNGListener 206 takeScreenShot - screen shot finished
+2017-10-24 at 17:01:33 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:01:33 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:01:36 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:01:36 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:01:39 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:01:39 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 17:01:42 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 17:01:42 CST ERROR listen.TestNGListener 56 onTestFailure - expected [百度一下1] but found [百度一下]
+2017-10-24 at 17:01:42 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 17:01:42 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 17:01:42 CST INFO  listen.TestNGListener 200 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-TestTestNGListener_2017-10-24 17-01-42.jpg
+2017-10-24 at 17:01:42 CST INFO  listen.TestNGListener 206 takeScreenShot - screen shot finished
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 17-01-25-------------
+2017-10-24 at 17:01:45 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 17:09:23 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 17:09:23 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 17:09:23 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 17-09-23-------------
+2017-10-24 at 17:09:23 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 17:09:23 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:09:26 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 17:09:26 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 17:09:26 CST ERROR listen.TestNGListener 56 onTestFailure - expected [百度一下1] but found [百度一下]
+2017-10-24 at 17:09:26 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 17:09:26 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 17:09:27 CST INFO  listen.TestNGListener 200 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-TestTestNGListener_2017-10-24 17-09-26.jpg
+2017-10-24 at 17:09:27 CST INFO  listen.TestNGListener 206 takeScreenShot - screen shot finished
+2017-10-24 at 17:09:30 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:09:30 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:09:33 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:09:33 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:09:36 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:09:37 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 17:09:39 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 17:09:39 CST ERROR listen.TestNGListener 56 onTestFailure - expected [百度一下1] but found [百度一下]
+2017-10-24 at 17:09:39 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 17:09:39 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 17:09:40 CST INFO  listen.TestNGListener 200 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-TestTestNGListener_2017-10-24 17-09-39.jpg
+2017-10-24 at 17:09:40 CST INFO  listen.TestNGListener 206 takeScreenShot - screen shot finished
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 17-09-23-------------
+2017-10-24 at 17:09:43 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 17:26:34 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 17:26:34 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 17:26:34 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 17-26-34-------------
+2017-10-24 at 17:26:34 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 17:26:34 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:26:37 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 17:26:42 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 17:26:42 CST ERROR listen.TestNGListener 56 onTestFailure - null
+2017-10-24 at 17:26:42 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 17:26:42 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 17:26:45 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:26:45 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:26:48 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:26:48 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:26:51 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:26:51 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 17:26:58 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 17:26:58 CST ERROR listen.TestNGListener 56 onTestFailure - null
+2017-10-24 at 17:26:58 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 17:26:58 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 17-26-34-------------
+2017-10-24 at 17:27:01 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 17:28:43 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 17:28:43 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 17:28:43 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 17-28-43-------------
+2017-10-24 at 17:28:43 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 17:28:43 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:28:46 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 17:28:51 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 17:28:51 CST ERROR listen.TestNGListener 56 onTestFailure - null
+2017-10-24 at 17:28:51 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 17:28:51 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 17:28:54 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:28:54 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:28:57 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:28:57 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:29:00 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:29:00 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 17:29:07 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-24 at 17:29:07 CST ERROR listen.TestNGListener 56 onTestFailure - null
+2017-10-24 at 17:29:07 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-24 at 17:29:07 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 17-28-43-------------
+2017-10-24 at 17:29:10 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 17:33:40 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 17:33:40 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 17:33:40 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 17-33-40-------------
+2017-10-24 at 17:33:40 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 17:33:40 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:33:43 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 17:33:51 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:33:54 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:33:54 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:33:57 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:33:57 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:34:00 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 17:34:00 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 17:34:07 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test02
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 17-33-40-------------
+2017-10-24 at 17:34:10 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 18:07:28 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 18:07:28 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 18:07:28 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 18-07-28-------------
+2017-10-24 at 18:07:28 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 18:07:28 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 18:07:31 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 18:07:36 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 18:07:39 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 18:07:39 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 18:07:42 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 18:07:42 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 18:07:45 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 18:07:45 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 18:07:53 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 18-07-28-------------
+2017-10-24 at 18:07:56 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-24 at 18:59:30 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-24 at 18:59:30 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-24 at 18:59:30 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-24 18-59-30-------------
+2017-10-24 at 18:59:30 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-24 at 18:59:30 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 18:59:33 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-24 at 18:59:38 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 18:59:41 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 18:59:41 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 18:59:44 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 18:59:44 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 18:59:47 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-24 at 18:59:47 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-24 at 18:59:54 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test02
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-24 18-59-30-------------
+2017-10-24 at 18:59:57 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-25 at 08:50:27 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-25 at 08:50:27 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-25 at 08:50:27 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-25 08-50-27-------------
+2017-10-25 at 08:50:27 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-25 at 08:50:28 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 08:50:31 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-25 at 08:50:36 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 08:50:39 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 08:50:39 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 08:50:42 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 08:50:42 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 08:50:45 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 08:50:45 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-25 at 08:50:52 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test02
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-25 08-50-27-------------
+2017-10-25 at 08:50:55 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-25 at 09:06:27 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-25 at 09:06:27 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-25 at 09:06:27 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-25 09-06-27-------------
+2017-10-25 at 09:06:27 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-25 at 09:06:28 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 09:06:31 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-25 at 09:06:32 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:06:32 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-Test2017-10-25 09-06-32.jpg
+2017-10-25 at 09:06:32 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 09:06:36 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 09:06:39 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 09:06:39 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 09:06:42 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 09:06:42 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 09:06:45 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 09:06:45 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-25 at 09:06:49 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:06:49 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-Test2017-10-25 09-06-49.jpg
+2017-10-25 at 09:06:49 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 09:06:52 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test02
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-25 09-06-27-------------
+2017-10-25 at 09:06:55 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-25 at 09:08:49 CST INFO  listen.TestNGListener 96 onStart - ----------------Test Start-------------
+2017-10-25 at 09:08:49 CST INFO  listen.TestNGListener 97 onStart - ---------------------------------------
+2017-10-25 at 09:08:49 CST INFO  listen.TestNGListener 98 onStart - ----------------2017-10-25 09-08-49-------------
+2017-10-25 at 09:08:49 CST INFO  listen.TestNGListener 99 onStart - ---------------------------------------
+2017-10-25 at 09:08:49 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 09:08:53 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-25 at 09:08:53 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:08:54 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-Test2017-10-25 09-08-53.jpg
+2017-10-25 at 09:08:54 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 09:08:58 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-25 at 09:08:58 CST ERROR listen.TestNGListener 56 onTestFailure - null
+2017-10-25 at 09:08:58 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-25 at 09:08:58 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:09:01 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 09:09:01 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 09:09:04 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 09:09:04 CST INFO  listen.TestNGListener 46 onTestSuccess - ================On Test Success======================
+2017-10-25 at 09:09:07 CST INFO  listen.TestNGListener 77 onTestStart - ================On Test Start======================
+2017-10-25 at 09:09:07 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-25 at 09:09:10 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:09:10 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-Test2017-10-25 09-09-10.jpg
+2017-10-25 at 09:09:10 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 09:09:14 CST ERROR listen.TestNGListener 53 onTestFailure - ================On Test error======================
+2017-10-25 at 09:09:14 CST ERROR listen.TestNGListener 56 onTestFailure - null
+2017-10-25 at 09:09:14 CST ERROR listen.TestNGListener 58 onTestFailure - null 
+2
+2017-10-25 at 09:09:14 CST INFO  listen.TestNGListener 196 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 112 onFinish - PassedTests = test
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test02
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 118 onFinish - failedTest = test
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 144 onFinish - Test Finish
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 147 onFinish - ----------------Test Finish-------------
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 148 onFinish - ---------------------------------------
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 149 onFinish - ----------------2017-10-25 09-08-49-------------
+2017-10-25 at 09:09:17 CST INFO  listen.TestNGListener 150 onFinish - ---------------------------------------
+2017-10-25 at 09:13:03 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-25 at 09:13:04 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:13:04 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-Test2017-10-25 09-13-04.jpg
+2017-10-25 at 09:13:04 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 09:13:17 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-25 at 09:13:20 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:13:21 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-Test2017-10-25 09-13-20.jpg
+2017-10-25 at 09:13:21 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 09:53:32 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-25 at 09:53:33 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:53:33 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-Test2017-10-25 09-53-33.jpg
+2017-10-25 at 09:53:33 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 09:53:46 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-25 at 09:53:49 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 09:53:49 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:D:\download\work\wang-Selenium-Test2017-10-25 09-53-49.jpg
+2017-10-25 at 09:53:49 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 10:03:56 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-25 at 10:03:57 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 10:03:57 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:/test-reports/img/D:\download\work\wang-Selenium-Test2017-10-25 10-03-57.jpg
+2017-10-25 at 10:03:57 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 10:04:10 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-25 at 10:04:13 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 10:04:13 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:/test-reports/img/D:\download\work\wang-Selenium-Test2017-10-25 10-04-13.jpg
+2017-10-25 at 10:04:13 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 10:05:30 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-25 at 10:05:31 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 10:05:31 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:/test-reports/img/D:\download\work\wang-Selenium-Test2017-10-25 10-05-31.jpg
+2017-10-25 at 10:05:31 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 10:05:45 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-25 at 10:05:48 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 10:05:48 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:/test-reports/img/D:\download\work\wang-Selenium-Test2017-10-25 10-05-48.jpg
+2017-10-25 at 10:05:48 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 10:38:12 CST INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+2017-10-25 at 10:38:13 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 10:38:13 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:/test-reports/img/D:\download\work\wang-Selenium-Test2017-10-25 10-38-13.jpg
+2017-10-25 at 10:38:13 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+2017-10-25 at 10:38:26 CST INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+2017-10-25 at 10:38:29 CST INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+2017-10-25 at 10:38:29 CST INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:/test-reports/img/D:\download\work\wang-Selenium-Test2017-10-25 10-38-29.jpg
+2017-10-25 at 10:38:29 CST INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
