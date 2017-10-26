@@ -109,7 +109,8 @@
 					</properties>
 					<!-- <workingDirectory>target/${maven.build.timestamp}</workingDirectory> -->
 					<!-- project.build.directory表示maven的属性，这里指的是构建的目录下面test-reports，project.build.directory就是pom标签的值 -->
-					<reportsDirectory>${basedir}/test-reports/${current.time}</reportsDirectory>
+					<!-- <reportsDirectory>${basedir}/test-reports/${current.time}</reportsDirectory> -->
+					<reportsDirectory>${basedir}/test-reports</reportsDirectory>
 				</configuration>
 			</plugin>
 

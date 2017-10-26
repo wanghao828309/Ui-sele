@@ -1,8 +1,8 @@
-10:38:12.258 INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
-10:38:13.009 INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
-10:38:13.319 INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:/test-reports/img/D:\download\work\wang-Selenium-Test2017-10-25 10-38-13.jpg
-10:38:13.329 INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
-10:38:26.472 INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
-10:38:29.510 INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
-10:38:29.558 INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is:/test-reports/img/D:\download\work\wang-Selenium-Test2017-10-25 10-38-29.jpg
-10:38:29.561 INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+14:24:44.683 INFO  seleniumHelper.DriverFactory 67 getChromeDriver - Create ChromeDriver 
+14:24:45.551 INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+14:24:45.881 INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is: D:\download\work\wang-Selenium-Test/test-reports/img/2017-10-26 14-24-45.jpg
+14:24:45.971 INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished
+14:24:59.241 INFO  seleniumHelper.DriverFactory 74 getIEDriver - Create IEDriverServer 
+14:25:02.081 INFO  utils.TakeScreenShot 41 takeScreenShot - D:\download\work\wang-Selenium-Test
+14:25:02.140 INFO  utils.TakeScreenShot 45 takeScreenShot - save snapshot path is: D:\download\work\wang-Selenium-Test/test-reports/img/2017-10-26 14-25-02.jpg
+14:25:02.142 INFO  utils.TakeScreenShot 51 takeScreenShot - screen shot finished

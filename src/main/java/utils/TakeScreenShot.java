@@ -42,7 +42,7 @@ public class TakeScreenShot {
 		File scrFile = drivername.getScreenshotAs(OutputType.FILE);
 		// Now you can do whatever you need to do with it, for example copy
 		try {
-			log.info("save snapshot path is:" + "/test-reports/img/"+currentPath + path);
+			log.info("save snapshot path is: " + currentPath +"/test-reports/img/"+path);
 			FileUtils.copyFile(scrFile, new File(currentPath + "/test-reports/img/" + path));
 		} catch (Exception e) {
 			log.error("Can't save screenshot");
